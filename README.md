@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehab-Shaaban88&theme=merko&&hide_border=true" width="45%"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=EhabShaaban&theme=merko&&hide_border=true" width="45%"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=EhabShaaban&theme=merko&&hide_border=true" width="45%" align="top"
   />
  </div> 
 </div>
