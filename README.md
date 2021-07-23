@@ -53,7 +53,6 @@ Here are some ideas to get you started:
   />
  </div>
   <br />
-  <br />
  <div>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehab-Shaaban88&theme=merko&&hide_border=true" width="45%"
