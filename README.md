@@ -14,3 +14,53 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+<br/>
+<div align="center">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
+    width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"
+    width="60px"
+    />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
+    width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"
+    width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
+    width="60px"
+  />
+  <br />
+  <br /> 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ehab-Shaaban88&show_icons=true&theme=merko&&hide_border=true"
+  />
+  <br />
+  <br />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Ehab-Shaaban88&theme=merko&&hide_border=true"
+  />
+  <br />
+  <br />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehab-Shaaban88&theme=merko&&hide_border=true"
+  />
+  <br />
+  <br />
+  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=EhabShaaban&theme=merko&&hide_border=true"
+  />
+  
+</div>
+ 
