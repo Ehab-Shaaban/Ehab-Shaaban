@@ -47,15 +47,15 @@ Here are some ideas to get you started:
   <br />
  <div>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ehab-Shaaban88&show_icons=true&theme=merko&&hide_border=true" width="45%"
+    src="https://github-readme-stats.vercel.app/api?username=Ehab-Shaaban&show_icons=true&theme=merko&&hide_border=true" width="45%"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Ehab-Shaaban88&theme=merko&&hide_border=true" width="45%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Ehab-Shaaban&theme=merko&&hide_border=true" width="45%"
   />
  </div>
   <br />
  <div>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehab-Shaaban88&theme=merko&&hide_border=true" width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehab-Shaaban&theme=merko&&hide_border=true" width="45%"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
     src="https://github-readme-stats.vercel.app/api/wakatime?username=EhabShaaban&theme=merko&&hide_border=true" width="45%" align="top"
   />
