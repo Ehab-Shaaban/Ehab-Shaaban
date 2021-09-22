@@ -49,12 +49,16 @@
   />
  </div>
   <br />
+ <!--
  <div>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehab-Shaaban&theme=merko&&hide_border=true" width="45%"
-  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <img
     src="https://github-readme-stats.vercel.app/api/wakatime?username=EhabShaaban&theme=merko&&hide_border=true" width="45%" align="top"
   />
+  -->
  </div> 
 </div>
  
